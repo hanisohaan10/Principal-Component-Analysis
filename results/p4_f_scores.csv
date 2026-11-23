@@ -1,0 +1,14 @@
+Rank,Feature,F-score
+1,flavanoids,187.6858
+2,proline,149.4335
+3,od280/od315_of_diluted_wines,126.6191
+4,alcohol,100.3464
+5,color_intensity,83.9793
+6,hue,72.2673
+7,total_phenols,59.2558
+8,alcalinity_of_ash,26.0528
+9,malic_acid,22.5828
+10,proanthocyanins,19.9799
+11,nonflavanoid_phenols,17.9053
+12,ash,11.5760
+13,magnesium,7.1124
